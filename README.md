@@ -3,4 +3,4 @@ The project is designed to simulate an online shopping experience where users ca
 
 ## Demo
 
-URL - https://ap-trading-production.netlify.app/
+URL - https://cart-practice-using-react.netlify.app
